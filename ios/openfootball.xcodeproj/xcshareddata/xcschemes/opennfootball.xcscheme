@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "M3akFelSeka.app"
-               BlueprintName = "M3akFelSeka"
-               ReferencedContainer = "container:M3akFelSeka.xcodeproj">
+               BuildableName = "openfootball.app"
+               BlueprintName = "openfootball"
+               ReferencedContainer = "container:openfootball.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "M3akFelSekaTests.xctest"
-               BlueprintName = "M3akFelSekaTests"
-               ReferencedContainer = "container:M3akFelSeka.xcodeproj">
+               BuildableName = "openfootballTests.xctest"
+               BlueprintName = "openfootballTests"
+               ReferencedContainer = "container:openfootball.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "M3akFelSeka.app"
-            BlueprintName = "M3akFelSeka"
-            ReferencedContainer = "container:M3akFelSeka.xcodeproj">
+            BuildableName = "openfootball.app"
+            BlueprintName = "openfootball"
+            ReferencedContainer = "container:openfootball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "M3akFelSeka.app"
-            BlueprintName = "M3akFelSeka"
-            ReferencedContainer = "container:M3akFelSeka.xcodeproj">
+            BuildableName = "openfootball.app"
+            BlueprintName = "openfootball"
+            ReferencedContainer = "container:openfootball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

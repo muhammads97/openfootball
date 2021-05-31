@@ -1,4 +1,4 @@
-package com.m3akfelseka;
+package com.openfootball.consumer;
 
 import android.os.Bundle; // here
 import com.facebook.react.ReactActivity;
@@ -10,7 +10,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "M3akFelSeka";
+    return "openfootball";
   }
 
   @Override

@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.m3akfelseka"
+        applicationId "com.openfootball.consumer"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
